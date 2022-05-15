@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nicola
 #### Design and development
-![Design and development](https://www.omgubuntu.co.uk/wp-content/uploads/2018/06/github-logo.jpeg)
+![Design and development](https://www.getillustrations.com/packs/shape-shifter-vector-illustrations-builder/scenes/_1x/web%20development%20_%20man,%20woman,%20design,%20website,%20browser,%20preferences_md.png)
 
 I am a young full stack developer fresh out of training. I code in react, laravel, and what I enjoy above all is working on the appearance of websites.
 
@@ -16,4 +16,4 @@ Skills: LARAVEL / REACT / JS / HTML / CSS / SASS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PirateDesBois&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/PirateDesBois) 
+![Profile views](https://gpvc.arturio.dev/PirateDesBois)  
