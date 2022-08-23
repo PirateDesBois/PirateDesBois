@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Nicola
 #### Design and development
-![Design and development](![image](https://user-images.githubusercontent.com/93984018/186146868-62be9caf-e872-4be0-baad-0913ba7242d4.png))
 
 I am a young full stack developer fresh out of training. I code in react, laravel, and what I enjoy above all is working on the appearance of websites.
 
