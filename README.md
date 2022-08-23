@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nicola
 #### Design and development
-![Design and development](https://www.getillustrations.com/packs/shape-shifter-vector-illustrations-builder/scenes/_1x/web%20development%20_%20man,%20woman,%20design,%20website,%20browser,%20preferences_md.png)
+![Design and development](![image](https://user-images.githubusercontent.com/93984018/186146868-62be9caf-e872-4be0-baad-0913ba7242d4.png))
 
 I am a young full stack developer fresh out of training. I code in react, laravel, and what I enjoy above all is working on the appearance of websites.
 
