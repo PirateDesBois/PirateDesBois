@@ -6,11 +6,10 @@
 
 <h4 align="center">Skills: LARAVEL / REACT / JS / HTML / CSS / SASS</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piratedesbois&label=Profile%20views&color=0e75b6&style=flat" alt="piratedesbois" /> </p>
-
-- 🔭 I’m currently working on My skills 
+<div align="center">
+  - 🔭 I’m currently working on My skills 
 - 🌱 I’m currently learning Deployment of my sites 
-
+</div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PirateDesBois)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/diaphragmcreationphotography/)  
 
