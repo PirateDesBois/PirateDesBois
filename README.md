@@ -6,7 +6,7 @@
 
 <h4 align="center">Skills: LARAVEL / REACT / JS / HTML / CSS / SASS</h4>
 
-<div align="center">
+<div align="center" justify="center">
   - 🔭 I’m currently working on My skills 
 - 🌱 I’m currently learning Deployment of my sites 
 </div>
