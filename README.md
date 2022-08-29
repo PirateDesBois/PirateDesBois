@@ -8,7 +8,7 @@ I am a young full stack developer fresh out of training. I code in react, larave
 Skills: LARAVEL / REACT / JS / HTML / CSS / SASS
 
 - 🔭 I’m currently working on My skills 
-- 🌱 I’m currently learning Laravel 
+- 🌱 I’m currently learning Deployment of my sites 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PirateDesBois)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/diaphragmcreationphotography/)  
