@@ -4,7 +4,9 @@
 
 <p align="center">I am a young full stack developer fresh out of training. I code in react, laravel, and what I enjoy above all is working on the appearance of websites.</p>
 
-Skills: LARAVEL / REACT / JS / HTML / CSS / SASS
+<h4 align="center">Skills: LARAVEL / REACT / JS / HTML / CSS / SASS</h4>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piratedesbois&label=Profile%20views&color=0e75b6&style=flat" alt="piratedesbois" /> </p>
 
 - 🔭 I’m currently working on My skills 
 - 🌱 I’m currently learning Deployment of my sites 
