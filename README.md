@@ -8,7 +8,7 @@ Skills: LARAVEL / REACT / JS / HTML / CSS / SASS
 - 🔭 I’m currently working on My skills 
 - 🌱 I’m currently learning Laravel 
 
-
+![](https://github.com/PirateDesBois/PirateDesBois/blob/main/mygif.gif?raw=true)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PirateDesBois)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/diaphragmcreationphotography/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PirateDesBois)](https://github.com/anuraghazra/github-readme-stats)
