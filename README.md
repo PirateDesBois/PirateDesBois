@@ -22,9 +22,9 @@
 
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PirateDesBOis&show_icons=true&theme=gruvbox)](https://github.com/PirateDesBois/github-readme-stats)</br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piratedesbois&show_icons=true&locale=en" alt="piratedesbois" /></p></br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PirateDesBOis&show_icons=true&theme=gruvbox)](https://github.com/PirateDesBois/github-readme-stats)</br></br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piratedesbois&" alt="piratedesbois" /></p></br>
 </div>
