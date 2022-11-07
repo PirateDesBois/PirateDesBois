@@ -27,6 +27,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PirateDesBOis&show_icons=true&theme=onedark)](https://github.com/PirateDesBois/github-readme-stats)</br></br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piratedesbois&theme=onedark" alt="piratedesbois" /></p></br>
+
+![Profile views](https://gpvc.arturio.dev/PirateDesBois)  
 </div>
 
 
@@ -35,6 +37,6 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/PirateDesBois)  
+
 
 
