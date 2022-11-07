@@ -28,7 +28,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piratedesbois&" alt="piratedesbois" /></p></br>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PirateDesBOis&show_icons=true&theme=radical)](https://github.com/PirateDesBois/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PirateDesBOis&show_icons=true&theme=merko)](https://github.com/PirateDesBois/github-readme-stats)
 
 
 
