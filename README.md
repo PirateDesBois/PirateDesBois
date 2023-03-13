@@ -4,7 +4,7 @@
 
 <p align="center" width="50px">I am a young full stack developer fresh out of training. I code in react, laravel, and what I enjoy above all is working on the appearance of websites.</p>
 
-<h4 align="center">Skills: LARAVEL / REACT / JS / HTML / CSS / SASS</h4>
+<h4 align="center">Skills: LARAVEL / REACT / Vue / JS / HTML / CSS / SASS</h4>
 
 <div align="center">
   - 🔭 I’m currently working on My skills <br>
