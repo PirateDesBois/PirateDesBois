@@ -17,7 +17,7 @@
 <a href="https://instagram.com/https://www.instagram.com/diaphragmcreationphotography/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diaphragmcreationphotography/" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages,Tools,frameworks,etc..:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,vue,react,laravel,mysql,vite,bootstrap,git,ps,ai&perline=3" />
