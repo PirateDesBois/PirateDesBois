@@ -20,7 +20,7 @@
 <h3 align="center">Languages,Tools,frameworks,etc..:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,vue,react,laravel,mysql,vite,bootstrap,git,ps,ai&perline=3" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,vue,react,laravel,mysql,vite,bootstrap,git,ps,ai,wordpress&perline=3" />
   </a>
 </p>
 
