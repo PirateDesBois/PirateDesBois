@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nicola</h1>
 <h3 align="center">Design and development Creator</h3>
 
-<p align="center" width="50px">I am a young full stack developer fresh out of training. I code in react, laravel, and what I enjoy above all is working on the appearance of websites.</p>
+<p align="center" width="50px">I am a young full stack php developer. I code in react, Vue3, laravel 8/9, and what I enjoy above all is working on the appearance of websites.</p>
 
 <h4 align="center">Skills: LARAVEL / REACT / Vue / JS / HTML / CSS / SASS</h4>
 
